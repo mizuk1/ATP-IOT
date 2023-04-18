@@ -9,7 +9,6 @@ Programa que realiza medições de temperatura e umidade e envia os dados para u
 ## Alunos
 
 * JOSÉ FRANCIEL PIRES DE OLIVEIRA
-* LEANDRO BRAZ DOS SANTOS
 * THIAGO MIZUKI DE CAMPOS
 
 ## Versions
